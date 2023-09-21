@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @desertcod98
-- 👀 I’m interested in software developing and cyber security
+- 👀 I’m interested in software development and cyber security
 - 🌱 I’m currently learning Nextjs 13 and related npm packages like React Query
 - 📫 How to reach me dev.desertcod98@pm.me
 
