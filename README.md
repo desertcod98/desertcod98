@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @desertcod98
-- 👀 I’m interested in software development and cyber security
-- 🌱 I’m currently learning Nextjs 13 and related npm packages like React Query
+- 👀 I’m interested in software development, cyber security, physics and math.
+- 🌱 I’m currently studying computer engineering.
 - 📫 How to reach me dev.desertcod98@pm.me
 
 <!---
